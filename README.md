@@ -18,4 +18,5 @@
 * 지속적인 통합(Continuous Integration)
 
 ## 6. 배포 및 유지보수 단계
-* 
+* 지속적인 전달(Continous Delivery)
+* 지속적인 배포(Continuous Deployment)
